@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+JTek Electronics Community, dedicated to Sony's game console technology stack
 <!--
 
 **Here are some ideas to get you started:**
